@@ -1,0 +1,12 @@
+#text input[type="text"] {
+    width: 400px;
+}
+select {
+    width: 250px;
+  }
+  .control-label{
+    text-align: left;
+}
+.droptarget{
+  width:30%;
+}

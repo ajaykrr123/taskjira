@@ -1,0 +1,20 @@
+ #div1, #div2, #div3{
+  float: left;
+  width: 252px;
+  height: 550px;
+  margin: 12px 0 0 158px;
+  padding: 10px;
+  border: 1px solid black;
+  }
+  .mydiv {
+    background-color: red;
+    float: left;
+    width: 40px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  p{
+    background-color: red;
+  } 

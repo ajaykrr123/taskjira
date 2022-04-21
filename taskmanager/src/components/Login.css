@@ -1,0 +1,17 @@
+.bg {
+    
+    float: left;
+    width: 100%;
+    background-size: cover;
+    height: 100vh; 
+    background-color: rgb(220, 234, 247);
+  } 
+  .containerLogin {
+    
+    background-color: white;
+    width: 300px;
+    
+    margin: 200px 0 0 500px; 
+    padding: 10px;
+    border-radius: 5px;
+  }
